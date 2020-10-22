@@ -4,6 +4,10 @@ A simple light-weight AWS Lambda function to delete EC2 EBS Snapshots older than
 
 Built on Node.js v12X.
 
+## Using
+
+NOTE: needs instructions.
+
 ## Contributing
 
 Contributions are always welcome. If contributing outside of Lambda, don't forget to run ```npm install aws-sdk``` after cloning the repo.
